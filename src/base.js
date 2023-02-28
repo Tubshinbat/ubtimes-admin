@@ -1,8 +1,8 @@
 const base = {
-  siteUrl: "http://localhost:3000/",
-  baseUrl: "http://localhost:3001/",
-  cdnUrl: "http://localhost:8090/uploads/",
-  apiUrl: "http://localhost:8090/api/v1/",
+  siteUrl: "http://ubtimes.metaldoor.mn/",
+  baseUrl: "http://ubtimes-admin.metaldoor.mn/",
+  cdnUrl: "http://ubtimes.metaldoor.mn/uploads/",
+  apiUrl: "http://ubtimes-admin.metaldoor.mn/api/",
 };
 
 export default base;
