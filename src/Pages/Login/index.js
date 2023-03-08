@@ -54,7 +54,7 @@ const Login = (props) => {
       <div className={css.LoginPage}>
         <div className={css.LoginHeader}>
           <div className={css.Logo}>
-            <h4 style={{ color: "#fff" }}> Daynews.mn </h4>
+            <h4 style={{ color: "#fff" }}> Ubtimes.mn </h4>
           </div>
           <p> Та өөрийнхөө админ нэвтрэх эрхээр орно уу</p>
         </div>

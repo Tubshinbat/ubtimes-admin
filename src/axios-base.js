@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "http://ubtimes-admin.metaldoor.mn/api/",
+  baseURL: "https://admin.ubtimes.mn/api/",
 });
 
 instance.defaults.withCredentials = true;
